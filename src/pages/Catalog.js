@@ -1,7 +1,9 @@
+import Card from "../components/Card";
+
 const Catalog = () => {
   return (
     <div>
-      <h1> Catalog </h1>
+      <Card />
     </div>
   );
 };
