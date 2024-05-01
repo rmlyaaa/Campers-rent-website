@@ -1,9 +1,9 @@
-import Card from "../components/Card";
+import CardList from "../components/CardList";
 
 const Catalog = () => {
   return (
     <div>
-      <Card />
+      <CardList />
     </div>
   );
 };
