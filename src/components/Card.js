@@ -8,7 +8,7 @@ const Card = ({ card }) => {
         <h2>{card.name}</h2>
         <h2> € {card.price}</h2>
         <button>
-          <use href={`${icons}#icon-Heart`}></use>
+          <svg href={`${icons}#icon-Heart`} width="16" height="16"></svg>
         </button>
       </div>
       <div>
