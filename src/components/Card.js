@@ -18,6 +18,7 @@ const Card = ({ card }) => {
       <p>{card.description}</p>
       <ul></ul>
       <button>Show more</button>
+      <p>Hello!</p>
     </div>
   );
 };
